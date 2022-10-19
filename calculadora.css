@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;  
+}
+
+
+
+.tudo{
+    
+   padding: 5px;
+   border-radius: 10px;
+   text-align: center;
+   background-color: rgb(37, 110, 110);
+   width: auto;
+   height: auto;
+   margin: auto; 
+}
+
+p{ /*Texto*/
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    text-align: center;  
+    
+}
+
+button{ /*Botão*/
+    background-color: rgb(59, 59, 139);
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    color: aliceblue;
+    padding-inline: 10px;
+    margin-inline: 5px;
+    text-align: center;
+    font-family: Arial;
+    
+}
+
+button:hover{ 
+    background-color: aliceblue;
+    border: none;
+    color: black;
+    box-shadow: 2px 2px 2px 2px;
+    transition: 0.5s;
+}
+
+h2{font-family: 'Courier New', Courier, monospace;}
+
+span{
+    font-size: 40px;
+    
+    color: rgb(195, 238, 5);
+    
+    margin-bottom: 10px;
+    padding: 5px;
+}
